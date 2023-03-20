@@ -1,4 +1,3 @@
-[![Kita's Design](http://brand.phodal.com/shields/design-small.svg)](https://www.phodal.com/)
 # FIR
 # 这是什么
 第一个C语言写的项目，具有历史价值
